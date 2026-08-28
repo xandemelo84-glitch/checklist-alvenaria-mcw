@@ -5,5 +5,4 @@
 
 window.MCW_CONFIG = {
   url: "https://vvlsqfwsmvtbxkexiarn.supabase.co",
-  key: "COLE_SUA_PUBLISHABLE_KEY_AQUI"
-};
+sb_publishable_lXmEwI6CmArOIELQRnNVig_S-8UJwef};
