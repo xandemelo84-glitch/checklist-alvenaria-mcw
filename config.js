@@ -5,5 +5,5 @@
 
 janela.MCW_CONFIG = {
     URL:"https://vylsqfwsmvtbxkexiarn.supabase.co",
-    chave:"SUA_CHAVE_PUBLICÁVEL_AQUI"
+    chave:"sb_publishable_lXmEwI6CmArOIELQRnNVig_S-8UJwef"
 };
